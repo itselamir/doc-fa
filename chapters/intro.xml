@@ -53,46 +53,48 @@
     در نتیجه واقعا هیچ راهی برای کاربر وجود ندارد که پی ببرد چه در آستین دارید.
    </para>
    <para>
-    The best part about using PHP is that it is extremely simple
-    for a newcomer, but offers many advanced features for
-    a professional programmer. Don't be afraid to read the long
-    list of PHP's features. You can jump in, in a short time, and
-    start writing simple scripts in a few hours.
-   </para>
+    بهترین چیز درباره PHP این است که هم برای یک تازه‌کار
+    بسیار ساده است، و هم ویژگی های پیشرفته بسیاری را در
+    اختیار برنامه نویس خبره قرار می‌دهد. از خواندن لیست
+    بلند و بالای ویژگی های PHP نترسید. طی اندک زمانی می‌توانید
+    وارد گود شوید و طی چند ساعت شروع به نوشتن اسکریپت های ساده کنید.
+    </para>
    <para>
-    Although PHP's development is focused on server-side scripting,
-    you can do much more with it. Read on, and see more in the
-    <link linkend="intro-whatcando">What can PHP do?</link> section,
-    or go right to the <link linkend="tutorial">introductory
-    tutorial</link> if you are only interested in web programming.
+    با وجود اینکه توسعه PHP متمرکز بر اسکریپت نویسی سمت سرور است،
+    می‌توانید کارهای بیشتری نیز با آن بکنید. به خواندن ادامه دهید
+    و از بخش <link linkend="intro-whatcando">PHP قادر به انجام چه کار هاییست؟</link>
+    اطلاعات بیشتری کسب کنید، یا اگر علاقه مند به برنامه نویسی هستید
+    مستقیما به <link linkend="tutorial">آموزش مقدماتی</link>
+    مراجعه کنید.
    </para>
   </section>
 
   <section xml:id="intro-whatcando">
-   <info><title>What can PHP do?</title></info>
+   <info><title>PHP قادر به انجام چه کار هاییست؟</title></info>
    <para>
-    Anything. PHP is mainly focused on server-side scripting,
-    so you can do anything any other CGI program can do, such
-    as collect form data, generate dynamic page content, or
-    send and receive cookies. But PHP can do much more.
+   هر کاری. PHP عمدتا متمرکز بر اسکریپت نویسی سمت سرور است،
+   پس می‌توانید هر کاری که سایر برنامه های CGI قادر بر آنند را
+   انجام دهید، مثل گردآوری داده های فرم، تولید محتوای صفحات پویا
+   یا ارسال و دریافت کوکی. اما PHP قادر به بسیار بیش از این است.
    </para>
    <para>
-    There are three main areas where PHP scripts are used.
+    ۳ حیطه وجود دارد که در آن می‌توان از PHP استفاده کرد.
     <itemizedlist>
      <listitem>
       <simpara>
-       Server-side scripting. This is the most traditional
-       and main target field for PHP. You need three things
-       to make this work: the PHP parser (CGI or server
-       module), a web server and a web browser. You need to
-       run the web server, with a connected PHP installation.
-       You can access the PHP program output with a web browser,
-       viewing the PHP page through the server. All these can
-       run on your home machine if you are just experimenting
-       with PHP programming. See the
-       <link linkend="install">installation instructions</link>
-       section for more information.
-      </simpara>
+       اسکریپت نویسی سمت سرور. این سنتی ترین و اصلی ترین
+       حیطه هدف برای PHP است. برای راه اندازی اش به ۳ چیز
+       نیاز دارید: یک PHP parser (CGI یا ماژول سرور)،
+       یک وب سرور و یک مرورگر وب. نیاز دارید تا وب سرور
+       را به همراه یک نصب PHP متصل به آن اجرا کنید. شما
+       قادرید تا به خروجی برنامه PHP با یک مرورگر وب دسترسی
+       پیدا کرده و صفحه PHP را از طریق سرور مشاهده کنید.
+       تمام این موارد بر روی دستگاه شخصی شما قابل اجراست
+       اگر صرفا قصد تجربه و آزمایش برنامه نویسی PHP را دارید.
+       جهت اطلاعات بیشتر به بخش
+       <link linkend="install">دستورالعمل های نصب</link>
+       مراجعه کنید
+       </simpara>
      </listitem>
      <listitem>
       <simpara>

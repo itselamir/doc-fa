@@ -18,12 +18,11 @@
 </info>
 
  <para>
-  idkdkdkdk consists primarily of a <link linkend="funcref">
-  function reference</link>, but also contains a 
-  <link linkend="langref">language reference</link>, explanations
-  of some of PHP's major <link linkend="features">features</link>, 
-  and other <link linkend="appendices">supplemental</link> 
-  information.
+  این راهنما غالبا متشکل از یک <link linkend="funcref">
+  مرجع توابع</link> است، اما علاوه بر آن شامل یک
+  <link linkend="langref">مرجع زبان</link>، توضیحات
+  بعضی از <link linkend="features">ویژگی</link>‌های عمده PHP
+  و سایر <link linkend="appendices">اطلاعات کمکی</link> نیز هست. 
  </para>
  <para>
   شما می‌توانید این راهنما را در فرمت های مختلف از <link
